@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Nicconcello/Nicconcello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nicolò, a passionate learner interested in programming and computer networking.
 
-Here are some ideas to get you started:
+I'm currently exploring the basics of coding, how networks work, and building my first small projects. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm focusing on learning Python / C / Java and understanding networking concepts.
+
+This is a fresh profile where I'll be uploading my experiments, exercises, and things I'm currently working on as I learn. 
+
+---
+
+### Tools & Tech I'm Learning
+
+* Python / C / Java (The basics)
+* Computer Networking (Protocols, basic routing, and how the internet works)
+* VS Code as my main code editor
