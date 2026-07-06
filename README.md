@@ -15,3 +15,12 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 * Python / C / Java (The basics)
 * Computer Networking (Protocols, basic routing, and how the internet works)
 * VS Code as my main code editor
+
+
+[![I tuoi Trofei](https://github-profile-trophy.vercel.app/?username=Nicconcello)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.io/api/top-langs/?username=Nicconcello&layout=compact&theme=vision-black" />
+
+<img src="https://github-readme-stats.vercel.io/api?username=Nicconcello&show_icons=true&theme=vision-black" />
+
+[![Il tuo grafico](https://github-readme-activity-graph.vercel.app/graph?username=Nicconcello&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
