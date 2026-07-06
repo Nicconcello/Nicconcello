@@ -17,8 +17,10 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 * VS Code as my main code editor
 
 
-<img src="https://github-readme-stats.vercel.io/api/top-langs/?username=Nicconcello&layout=compact&theme=vision-black" />
+<!-- I linguaggi più usati -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&theme=vision-black" />
 
-<img src="https://github-readme-stats.vercel.io/api?username=Nicconcello&show_icons=true&theme=vision-black" />
+<!-- Le tue statistiche generali -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&theme=vision-black" />
 
 [![Il tuo grafico](https://github-readme-activity-graph.vercel.app/graph?username=Nicconcello&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
