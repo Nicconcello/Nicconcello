@@ -17,8 +17,6 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 * VS Code as my main code editor
 
 
-[![I tuoi Trofei](https://github-profile-trophy.vercel.app/?username=Nicconcello)](https://github.com/ryo-ma/github-profile-trophy)
-
 <img src="https://github-readme-stats.vercel.io/api/top-langs/?username=Nicconcello&layout=compact&theme=vision-black" />
 
 <img src="https://github-readme-stats.vercel.io/api?username=Nicconcello&show_icons=true&theme=vision-black" />
