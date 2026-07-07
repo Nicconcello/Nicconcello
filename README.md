@@ -21,4 +21,12 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&bg_color=00000000&hide_border=true" />
 
+### Activity Graph
+
 [![Il tuo grafico](https://github-readme-activity-graph.vercel.app/graph?username=Nicconcello&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### Contribution Activity Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nicconcello/Nicconcello/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
+</p>
