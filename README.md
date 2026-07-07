@@ -16,10 +16,15 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 * Computer Networking (Protocols, basic routing, and how the internet works)
 * VS Code as my main code editor
 
+---
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&bg_color=00000000&hide_border=true" />
 
+---
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&bg_color=00000000&hide_border=true" />
+
+---
 
 ### Activity Graph
 
