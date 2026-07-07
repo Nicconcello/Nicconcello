@@ -28,5 +28,5 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 ### Contribution Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nicconcello/Nicconcello/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Nicconcello/Nicconcello/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" width="100%" />
 </p>
