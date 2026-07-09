@@ -18,11 +18,12 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&bg_color=00000000&hide_border=true" />
+### Statistics
 
----
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&bg_color=00000000&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&bg_color=00000000&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&bg_color=00000000&hide_border=true" />
+</p>
 
 ---
 
