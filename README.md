@@ -6,7 +6,7 @@ I'm currently exploring the basics of coding, how networks work, and building my
 
 Right now, I'm focusing on learning Python / C / Java and understanding networking concepts.
 
-This is a fresh profile where I'll be uploading my experiments, exercises, and things I'm currently working on as I learn. 
+This is a fresh profile where I'll be uploading my experiments, exercises, and things I'm currently working on as I learn.
 
 ---
 
