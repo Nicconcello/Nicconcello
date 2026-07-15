@@ -14,7 +14,7 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 * Python / C / Java (The basics)
 * Computer Networking (Protocols, basic routing, and how the internet works)
-* VS Code as my main code editor 
+* VS Code as my main code editor
 
 ---
 
