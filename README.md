@@ -20,7 +20,7 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 <p align="center">
   <a href="https://www.codewars.com/users/Nicconcello">
-    <img src="https://github.r2v.ch/codewars?user=Nicconcello&stroke=%2338bdf8&text=%23ffffff&background=%23000000" alt="Codewars" />
+    <img src="https://github.r2v.ch/codewars?user=Nicconcello&stroke=%2338bdf8&text=%23ffffff&background=%23010409" alt="Codewars" />
   </a>
 </p>
 
