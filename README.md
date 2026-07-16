@@ -18,6 +18,10 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
+[![Codewars](https://github.r2v.ch/codewars?user=Nicconcello&stroke=%2338bdf8)](https://www.codewars.com/users/IL_TUO_USERNAME)
+
+---
+
 ### Statistics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
