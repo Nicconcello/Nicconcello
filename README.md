@@ -18,7 +18,11 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
-[![Codewars](https://github.r2v.ch/codewars?user=Nicconcello&stroke=%2338bdf8)](https://www.codewars.com/users/IL_TUO_USERNAME)
+<p align="center">
+  <a href="https://www.codewars.com/users/Nicconcello">
+    <img src="https://github.r2v.ch/codewars?user=Nicconcello&stroke=%2338bdf8&text=%23ffffff&background=00000000" alt="Codewars" />
+  </a>
+</p>
 
 ---
 
