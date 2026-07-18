@@ -34,7 +34,7 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicconcello&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=38bdf8" height="185" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="185" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true&cache_seconds=1800" height="185" />
     </td>
   </tr>
 </table>
