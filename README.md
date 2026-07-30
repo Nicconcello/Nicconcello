@@ -26,6 +26,16 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
+### Certification
+
+<p align="center">
+  <a href="https://www.credly.com/badges/61b80e18-21a9-4637-96e2-73911866849a/public_url">
+    <img src="https://images.credly.com/size/220x220/images/c04b8686-24cc-408c-9b88-51829e28a556/Verified_20Intro_20to_20Cyber_20Green_20Standard_20Badge_202D_20_28002_29.png" alt="Cisco Introduction to Cybersecurity Badge" width="160" />
+  </a>
+</p>
+
+---
+
 ### Statistics
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
