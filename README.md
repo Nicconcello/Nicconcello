@@ -26,7 +26,7 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
-### Certification
+### Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/61b80e18-21a9-4637-96e2-73911866849a/public_url">
