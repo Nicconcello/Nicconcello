@@ -32,6 +32,8 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
   <a href="https://www.credly.com/badges/61b80e18-21a9-4637-96e2-73911866849a/public_url">
     <img src="I2CS__1_.png" alt="Cisco Introduction to Cybersecurity Badge" width="160" />
   </a>
+  <a href="[https://www.credly.com/badges/61b80e18-21a9-4637-96e2-73911866849a/public_url](https://www.credly.com/badges/26e8bd2e-fb7e-4306-b9e5-5381a6b3088a/public_url)">
+    <img src="networking-basics.png" alt="Cisco Networking Basics Badge" width="160" />
 </p>
 
 ---
