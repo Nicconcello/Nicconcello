@@ -46,10 +46,10 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="185" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicconcello&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" height="185" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nicconcello&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=38bdf8" height="185" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nicconcello&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&icon_color=38bdf8" height="185" />
     </td>
   </tr>
 </table>
