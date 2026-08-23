@@ -34,6 +34,9 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
   </a>
   <a href="[https://www.credly.com/badges/61b80e18-21a9-4637-96e2-73911866849a/public_url](https://www.credly.com/badges/26e8bd2e-fb7e-4306-b9e5-5381a6b3088a/public_url)">
     <img src="networking-basics.png" alt="Cisco Networking Basics Badge" width="160" />
+  </a>
+  <a href="https://www.credly.com/badges/3bc6e851-11c8-4aea-884b-c8f39f7688f7/public_url">
+    <img src="networking-devices-and-initial-configuration.png" alt="Cisco Networking Devices and Initial Configuration Badge" width="160" />
 </p>
 
 ---
