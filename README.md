@@ -56,10 +56,6 @@ This is a fresh profile where I'll be uploading my experiments, exercises, and t
 
 ---
 
-### Activity Graph
-
-[![Il tuo grafico](https://github-readme-activity-graph.vercel.app/graph?username=Nicconcello&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### Contribution Activity Graph
 
 <p align="center">
